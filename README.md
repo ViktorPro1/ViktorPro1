@@ -44,7 +44,7 @@
 **Machine:** Lenovo G580 · Intel Core i5‑3320M · 16 GB RAM  
 SSD 240GB + SSD 1TB Samsung 870 EVO · 3 монітори · Linux Mint 22.2 Zara  
 
-**Dev Tools:** VS Code · Cursor · Git · GitHub Desktop · GitKraken  
+**Dev Tools:** VS Code · Git · GitHub Desktop · GitKraken  
 Node.js · npm · Yarn · pnpm · nvm · Docker  
 PostgreSQL · pgAdmin 4 · DBeaver · Postman  
 
