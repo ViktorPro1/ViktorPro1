@@ -56,13 +56,11 @@ PostgreSQL · pgAdmin 4 · DBeaver · Postman
 ---
 
 ## 📊 Додатковий прогрес
-- 🤖 ШІ для бізнесу (Google, Мінекономіки, Edera)  
-- 📱 Target & SMM (Facebook, Instagram, WowTarget, Wiseclub)  
+- 🤖 ШІ для бізнесу  
+- 📱 Target & SMM   
 - 🎨 Canva для маркетингу  
 
 ---
 
 ## 📫 How to reach me
-- LinkedIn: [твоє посилання]  
-- Telegram: [@твій_нік]  
-- Email: [твій email]
+- Telegram: [@Viktor_01v](https://t.me/Viktor_01v)
