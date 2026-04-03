@@ -4,9 +4,9 @@
 ---
 
 ## 🖥️ Основи
-- Командний рядок (GO‑IT)  
-- UNIX/Linux (GO‑IT)  
-- Git та GitHub (GO‑IT, ITVDN)  
+- Командний рядок  
+- UNIX/Linux   
+- Git та GitHub   
 
 ## 🎨 Верстка
 - HTML, CSS, Flexbox, Grid, Bootstrap 5  
